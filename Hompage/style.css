@@ -1,0 +1,287 @@
+.navbar-container{
+    background-color: whitesmoke;
+    display: flex;  
+  
+    align-items: center;
+    justify-content: space-between;
+    
+ 
+}
+
+.heading-2 container {
+ display: flex;
+    gap: 40px;
+    list-style: none;
+}
+
+a {
+    flex-direction:row;
+    text-decoration: none;
+    font-weight: 578;
+    color:grey;
+    line-height: 26.4px;
+}
+
+.heading-1{
+     /* background: #3C4242; */
+     Width :91px;
+     Height :45px;
+     Left :0.16px;
+     margin-left:20px;
+
+}
+/* .heading-2 container{
+    display: flex; 
+    flex-direction: row;
+    
+} */
+.banner-container{
+    /* background-image: url(Banner.svg); */
+margin-top: 10px;
+position: relative;
+text-align: center;
+color: white;
+
+}
+.right-section{
+    display: flex;
+    justify-content: flex-end;
+}
+.hedline-h5{
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+.hedline-h1{
+    position: absolute;
+    top: 200px;
+    left: 150px;
+    font-family: Core Sans C;
+font-size: 78px;
+font-weight: 800;
+line-height: 94px;
+letter-spacing: 0.31476014852523804px;
+text-align: left;
+
+}
+.hedline-h4{
+    position: absolute;
+    top: 400px;
+    left: 150px;
+    font-family: Core Sans C;
+font-size: 32px;
+font-weight: 500;
+line-height: 47px;
+letter-spacing: 0.31476014852523804px;
+text-align: left;
+
+}
+
+.banner-btn{
+    position: absolute;
+   bottom: 170px;
+    left: 150px;
+    /* width: Hug (250px);
+height: Hug (61px); */
+
+padding: 16px 72px 16px 72px;
+border-radius: 8px;
+gap: 12px;
+
+}
+
+.deal{
+   /* display: flexbox; */
+    position: relative;
+    
+}
+
+/* .deal-images{
+    flex-direction: row;
+} */
+
+
+.deal-heading-h6{
+    position: absolute;
+    Top:67.29px;
+     Left:28.12px;
+    
+font-size: 18px;
+font-weight: 800;
+line-height: 30px;
+letter-spacing: 0.2505565583705902px;
+text-align: left;
+color: #FFFFFF;
+
+
+}
+
+.deal-heading-h2{
+    position: absolute;
+    width: 234px;
+height: 46px;
+top: 122.53643798828125px;
+left: 28.12px;
+font-size: 34px;
+font-weight: 800;
+line-height: 45px;
+letter-spacing: 0px;
+text-align: left;
+color: #FFFFFF;
+
+
+}
+
+.deal-heading-h3{
+    position: absolute;
+    width: 119px;
+height: 26px;
+top: 177.7783203125px;
+left: 28.12px;
+font-family: Core Sans C;
+font-size: 16px;
+font-weight: 500;
+line-height: 25px;
+letter-spacing: 0.2505565583705902px;
+text-align: left;
+color: #FFFFFF;
+
+
+}
+
+.deal-heading-h6-2nd{
+    position: absolute;
+    width: 136px;
+height: 31px;
+top: 245.29754638671875px;
+left: 32.140625px;
+font-family: Core Sans C;
+font-size: 20px;
+font-weight: 800;
+line-height: 30px;
+letter-spacing: 0px;
+text-align: left;
+color: #FFFFFF;
+
+}
+
+.deal2-heading-h6{
+    position: absolute;
+    top: 390px;
+left: 40px;
+    width: 180px;
+height: 31px;
+font-family: Montserrat;
+font-size: 18px;
+font-weight: 800;
+line-height: 30px;
+letter-spacing: 0.2505565583705902px;
+text-align: left;
+color: #FFFFFF;
+
+
+}
+
+.deal2-heading-h2{
+    position: absolute;
+    width: 264px;
+height: 91px;
+top:450px;
+left:40px;
+
+font-family: Core Sans C;
+font-size: 34px;
+font-weight: 800;
+line-height: 45px;
+letter-spacing: 0px;
+text-align: left;
+color: #FFFFFF;
+
+
+}
+
+.deal2-heading-h3{
+    position: absolute;
+    width: 119px;
+height: 26px;
+top: 570px;
+left: 40px;
+font-family: Core Sans C;
+font-size: 16px;
+font-weight: 500;
+line-height: 25px;
+letter-spacing: 0.2505565583705902px;
+text-align: left;
+color: #FFFFFF;
+
+}
+
+.deal2-heading-h6-2nd{
+    position: absolute;
+    width: 136px;
+height: 31px;
+top: 590px;
+left: 40px;
+font-family: Core Sans C;
+font-size: 20px;
+font-weight: 800;
+line-height: 30px;
+letter-spacing: 0px;
+text-align: left;
+color: #FFFFFF;
+
+
+}
+
+.new-arrival-container {
+    width: 1240px;
+    height: 416px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+
+.heading-div {
+    display: flex;
+    align-items: center;
+}
+
+.rectangle-icon {
+    background-color: #8A33FD;
+    width: 6px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.new-arrival-heading-h3 {
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 34px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #3C4242;
+    width: 394px;
+    height: 31px;
+    margin-left: 26px;
+}
+
+.left-arrow {
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+.new-arrival-text {
+    color: #3C4242;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    height: 24px;
+    margin-top: 20px;
+}
+
+
+.arrow{
+    margin-top: 110px;
+}
